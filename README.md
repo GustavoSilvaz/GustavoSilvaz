@@ -12,11 +12,5 @@
 <p align="center">
   <img src="https://github-trophies.vercel.app/?username=gustavosilvaz&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
 </p>
-
-<div align="center"> 
-<a href="https://instagram.com/gu.z.z" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href = "mailto:cmp.1a.syloksz@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gustavo-silv4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
- </div>
  
 
