@@ -9,8 +9,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gustavosilvaz&bg_color=0d1117&color=2980B9&line=2980B9&point=D6EAF8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=gustavosilvaz&theme=discord&no-frame=true&no-bg=true&margin-w=4" />
-</p>
- 
 
